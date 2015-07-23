@@ -1,0 +1,10 @@
+baseurl = "http://chemistry-set.apps.demo.labs.cf.canopy-cloud.com"
+languageCode = "en-gb"
+title = "Canopy Chemistry Set"
+theme = "bootie-docs"
+copyright = "Copyright (c) 2015, CloudCredo & Canopy Cloud; All rights reserved."
+
+[params]
+	description = "Knowledge by Experimentation"
+	mainMenu = ["XP","People","Process","Tooling","Reading"]
+	noCategoryLink = true
